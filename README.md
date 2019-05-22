@@ -9,7 +9,7 @@ Chapter 1 Basic Concepts:
     Definiteness
     Input
     Output
-    Effectiveness
+    Effectiveness.
     
   Mathematical Preliminaries:
     Mathematical Induction
@@ -22,11 +22,11 @@ Chapter 1 Basic Concepts:
     Fibonacci Numbers
     Generating Functions
     Analysis of an Algorithm
-    Asymptotic Representations
+    Asymptotic Representations.
   
   Fundamental Programming Techniques:
     Subroutines
     Coroutines
     Interpretive Routines
-    Input and Output
+    Input and Output.
     
